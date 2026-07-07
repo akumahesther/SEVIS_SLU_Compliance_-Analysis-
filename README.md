@@ -5,8 +5,8 @@ A four-week compliance analytics project analyzing SEVIS F-1 international stude
 Role: Research and Documentation Coordinator, Team 25.
 
 # Tools & Stack
-- PostgreSQL (Supabase) / pgAdmin — SQL validation and verification queries
-Looker Studio — multi-tab compliance dashboard.
+- PostgreSQL (Supabase) / pgAdmin, SQL validation and verification queries
+Looker Studio multi-tab compliance dashboard.
 - Excel / Power Query data cleaning
 - PowerPoint final stakeholder presentation.
 
@@ -20,7 +20,7 @@ Reporting Produced a formal compliance report with a full reconciliation table, 
 ## Key Insights
 - 53% of students had not paid the SEVIS fee the single largest compliance gap in the dataset, and the primary driver of at-risk status.
 - 86.9% of the student population was concentrated at the Master's level, indicating compliance risk is not evenly spread across academic levels and outreach should be weighted accordingly.
-- Two metrics  I-20 issuance rate (65.32%) and deposit-paid rate (22%) — could not be independently verified against the exported CSV due to lost derivation logic upstream, highlighting a data governance gap rather than a compliance one.
+- Two metrics  I-20 issuance rate (65.32%) and deposit-paid rate (22%) could not be independently verified against the exported CSV due to lost derivation logic upstream, highlighting a data governance gap rather than a compliance one.
 - Cross-validation between the Looker Studio dashboard and SQL queries in pgAdmin confirmed consistency across all other reconciled metrics, supporting confidence in the 53% and 86.9% figures.
 
   
