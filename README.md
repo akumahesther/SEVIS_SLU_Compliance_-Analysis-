@@ -1,4 +1,4 @@
-## SEVIS F-1 Compliance Analysis — Excelerate Team 25
+## SEVIS F-1 Compliance Analysis Excelerate Team 25
 
 # Project Overview
 A four-week compliance analytics project analyzing SEVIS F-1 international student data to identify enrollment, fee, and documentation risk patterns. The pipeline covers data cleaning, SQL validation, dashboard development, and a final compliance report.
